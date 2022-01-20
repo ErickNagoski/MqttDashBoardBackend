@@ -5,7 +5,7 @@
 
 
 <p>Código frontend</p>
-<a href="https://github.com/grupobigfer/intranet-frontend.git">https://github.com/grupobigfer/intranet-frontend.git</a>
+<a href="https://github.com/ErickNagoski/MqttDashBoardFrontEnd.git">https://github.com/ErickNagoski/MqttDashBoardFrontEnd.git</a>
 <p>
 executar  "yarn" para instalar as dependências 
 executar "yarn run dev" para inicializar</p>
